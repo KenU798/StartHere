@@ -23,4 +23,4 @@ This repository contains the files you need to set up a private ML/AI playground
 
     ```conda env create --file TF36.yml```
 
-5. Finally, run your Anaconda Navigator, activate the TF 36 environment by selecting TF36 from the **Applications on** dropdown menu, and then click the **Launch** button for the Jupyter Notebook app. The notebook browswer will open in a new Web Browser tab.
+5. Finally, run your Anaconda Navigator, activate the TF 36 environment by selecting TF36 from the **"Applications on"** dropdown menu, and then click the **Launch** button for the **Jupyter Notebook** app. The notebook browswer will open in a new Web Browser tab.
