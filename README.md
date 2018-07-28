@@ -17,8 +17,10 @@ This repository contains the files you need to set up a private ML/AI playground
 
     <https://conda.io/docs/user-guide/getting-started.html>
 
-2. Download the file: **TF36.yml** by clicking the green **Clone or download** button (above and to the right of the screen) and then clicking on "Download ZIP" in the dropdown menu that appears. This file is used to create a Python 3.6, Tensorflow 1.9 ML/AI environment your Anaconda installation that is the same as mine. All the Jupyter notebooks in my repositories should run in this environment. I've added necessary Python modules like Seaborn, Scikit Learn, etc. so you don't have to.
+4. Download the file: **TF36.yml** by clicking the green **Clone or download** button (above and to the right of the screen) and then clicking on "Download ZIP" in the dropdown menu that appears. This file is used to create a Python 3.6, Tensorflow 1.9 ML/AI environment your Anaconda installation that is the same as mine. All the Jupyter notebooks in my repositories should run in this environment. I've added necessary Python modules like Seaborn, Scikit Learn, etc. so you don't have to.
 
     You create the TF36 environment, after installing Anaconda on your laptop, by running this command in a terminal window:
 
     ```conda env create --file TF36.yml```
+
+5. Finally, run your Anaconda Navigator, activate the TF 36 environment by selecting TF36 from the **Applications on** dropdown menu, and then click the **Launch** button for the Jupyter Notebook app. The notebook browswer will open in a new Web Browser tab.
