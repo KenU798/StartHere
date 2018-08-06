@@ -22,5 +22,7 @@ This repository contains the files you need to set up a private ML/AI playground
     You create the TF36 environment, after installing Anaconda on your laptop, by running this command in a terminal window:
 
     ```conda env create --file TF36.yml```
+    
+    You can also create the environment by starting up the Anaconda Navigator app and clicking the Environments tab (just under the Home tab on the left side of the window). Look along the bottom of the Environments page and locate the four buttons labelled **Create, Clone, Import, and Remove**. Click the **Import** button to open a dialog box titled **Import new environment**. Click the black folder icon to the right of the **Specification file** text box. Locate and open the TF36.yml file you downloaded and then click the **Import** button in the **Import new environment** dialog box to create the TF36 environment (this will take a couple of minutes).
 
-5. Finally, run your Anaconda Navigator, activate the TF 36 environment by selecting TF36 from the **"Applications on"** dropdown menu, and then click the **Launch** button for the **Jupyter Notebook** app. The notebook browswer will open in a new Web Browser tab.
+5. Finally, run your Anaconda Navigator (if it is not running already), activate the TF 36 environment by selecting TF36 from the **"Applications on"** dropdown menu, and then click the **Launch** button for the **Jupyter Notebook** app. The notebook browswer will open in a new Web Browser tab.
