@@ -7,7 +7,7 @@ This repository contains the files you need to set up a private ML/AI playground
 
     <https://docs.anaconda.com/anaconda/install/>
     
-    Please install the latest version (currently the Python 3.7 version). I try to keep all my notebooks updated to run the latest version.
+    Install the latest version (currently Python 3.7). I try to keep all my notebooks updated to run the latest version.
     
 2. Verify your installation after install by following the instructions at this link:
 
