@@ -18,3 +18,7 @@ This repository contains the files you need to set up a private ML/AI playground
     <https://conda.io/docs/user-guide/getting-started.html>
 
 4. Run your Anaconda Navigator (if it is not running already) and then click the **Launch** button for the **Jupyter Notebook** app. The notebook browswer will open in a new Web Browser tab.
+
+5. Or download and open my notebook on your first machine learning algorithm...
+
+    https://github.com/KenU798/LinearRegression/blob/master/Linear_Regression_The_First_Algorithm.ipynb
