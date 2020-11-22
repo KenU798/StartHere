@@ -1,13 +1,13 @@
 # StartHere
 This repository contains the files you need to set up a private ML/AI playground on your laptop or PC
 
-## How to install your playground
+## How to install your ML/AIplayground
 
 1. Install Anaconda on your laptop by following the instructions at this link to Anaconda.com:
 
     <https://docs.anaconda.com/anaconda/install/>
     
-    Install the latest version (currently Python 3.7).
+    Install the latest version (currently Python 3.8).
     
 2. Verify your installation after install by following the instructions at this link:
 
